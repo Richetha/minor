@@ -12,7 +12,8 @@ HTML:
 <div class="container">: Acts as the main container for the to-do list application.
 <h1>To-Do List</h1>   The title for the application.
 used BUTTON TAG to add tasks.
-<input type="text"> to enter the text of the task
+<input type="text"> to enter the text of the task.
+
  
 CSS:
 The CSS is used for the styling to the page.
