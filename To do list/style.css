@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(32, 61, 61);
+    background-color:rgb(24, 122, 122);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .container{
@@ -13,14 +13,14 @@ body{
 input{
     width:270px;
     padding:8px;
-    border:2px solid rgba(5, 170, 170, 0.709);
+    border:2px solid rgba(98, 216, 216, 0.709);
     outline:none;
 }
 
 button{
     width:60px;
     height: 41px;
-    background-color: rgba(12, 186, 49, 0.829);
+    background-color: rgba(97, 204, 120, 0.829);
     color:white;
     border:none;
     cursor:pointer;
@@ -30,7 +30,7 @@ button{
 }
 .text ul{
     position:relative;
-    background-color: rgb(90, 57, 207);
+    background-color: rgb(106, 79, 206);
     color:white;
     font-size:19px;
     padding:7px;
